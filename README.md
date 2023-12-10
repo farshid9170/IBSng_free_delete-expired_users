@@ -10,7 +10,7 @@ This Bash script provides a user-friendly command-line interface for managing us
 - **Relative Expiration:** Efficiently manage users whose relative expiration date is older than a specified number of days from their first login.
 
 ## Usage Instructions
-1. clone the project in your IBSng server
+1. clone the project in your IBSng server or just copy delete_expired_users.sh into your server 
    
 git clone https://github.com/farshid9170/IBSng_free_delete-expired_user.git
 
