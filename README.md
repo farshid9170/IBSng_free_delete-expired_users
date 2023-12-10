@@ -22,3 +22,6 @@ bash delete_expired_users.sh
 4. Confirm the deletion to initiate the background removal of expired users.
 5. Monitor the progress and receive a notification when the users are successfully removed.
 
+
+![delete_users](https://github.com/farshid9170/IBSng_free_delete-expired_user/assets/99282372/b86c9320-ae00-436a-86ec-edb3cb01942e)
+
