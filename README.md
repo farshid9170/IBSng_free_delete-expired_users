@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Bash script provides a user-friendly command-line interface for managing users in IBSng (Interactive Bandwidth Server Next Generation). The script interacts with the PostgreSQL database of IBSng to perform actions such as deleting expired users based on absolute and relative expiration criteria.
+This Bash script provides a user-friendly command-line interface for managing users in IBSng free . The script interacts with the PostgreSQL database of IBSng to perform actions such as deleting expired users based on absolute and relative expiration criteria.
 
 ## Features
 
